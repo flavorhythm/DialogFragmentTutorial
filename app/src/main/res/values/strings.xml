@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DialogFragmentTutorial</string>
+    <string name="dialogFragment_btn">Open DialogFragment</string>
+    <string name="alertFragment_btn">Open AlertDialogFragment</string>
+    <string name="welcome">This is a Dialog Fragment</string>
+</resources>
